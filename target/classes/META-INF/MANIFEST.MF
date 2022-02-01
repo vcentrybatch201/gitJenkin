@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Built-By: Asus
+Class-Path: outjar/selenium-java-4.1.0.jar outjar/selenium-api-4.1.0.j
+ ar outjar/selenium-chrome-driver-4.1.0.jar outjar/auto-service-annota
+ tions-1.0.1.jar outjar/auto-service-1.0.1.jar outjar/auto-common-1.2.
+ jar outjar/selenium-chromium-driver-4.1.0.jar outjar/selenium-json-4.
+ 1.0.jar outjar/selenium-devtools-v85-4.1.0.jar outjar/selenium-devtoo
+ ls-v94-4.1.0.jar outjar/selenium-devtools-v95-4.1.0.jar outjar/seleni
+ um-devtools-v96-4.1.0.jar outjar/selenium-edge-driver-4.1.0.jar outja
+ r/selenium-firefox-driver-4.1.0.jar outjar/selenium-firefox-xpi-drive
+ r-4.1.0.jar outjar/selenium-ie-driver-4.1.0.jar outjar/selenium-opera
+ -driver-4.1.0.jar outjar/selenium-remote-driver-4.1.0.jar outjar/nett
+ y-buffer-4.1.69.Final.jar outjar/netty-codec-http-4.1.69.Final.jar ou
+ tjar/netty-codec-4.1.69.Final.jar outjar/netty-handler-4.1.69.Final.j
+ ar outjar/netty-common-4.1.69.Final.jar outjar/netty-transport-native
+ -epoll-4.1.69.Final.jar outjar/netty-transport-native-kqueue-4.1.69.F
+ inal.jar outjar/netty-transport-native-unix-common-4.1.69.Final.jar o
+ utjar/netty-transport-4.1.69.Final.jar outjar/netty-resolver-4.1.69.F
+ inal.jar outjar/opentelemetry-api-1.9.0.jar outjar/opentelemetry-cont
+ ext-1.9.0.jar outjar/opentelemetry-exporter-logging-1.9.0.jar outjar/
+ opentelemetry-sdk-metrics-1.9.0-alpha.jar outjar/opentelemetry-sdk-lo
+ gs-1.9.0-alpha.jar outjar/opentelemetry-sdk-common-1.9.0.jar outjar/o
+ pentelemetry-sdk-extension-autoconfigure-spi-1.9.0.jar outjar/opentel
+ emetry-sdk-extension-autoconfigure-1.9.0-alpha.jar outjar/opentelemet
+ ry-sdk-trace-1.9.0.jar outjar/opentelemetry-api-metrics-1.9.0-alpha.j
+ ar outjar/opentelemetry-sdk-1.9.0.jar outjar/opentelemetry-semconv-1.
+ 9.0-alpha.jar outjar/jtoml-2.0.0.jar outjar/byte-buddy-1.12.1.jar out
+ jar/commons-exec-1.3.jar outjar/async-http-client-2.12.3.jar outjar/a
+ sync-http-client-netty-utils-2.12.3.jar outjar/netty-codec-socks-4.1.
+ 60.Final.jar outjar/netty-handler-proxy-4.1.60.Final.jar outjar/netty
+ -transport-native-epoll-4.1.60.Final-linux-x86_64.jar outjar/netty-tr
+ ansport-native-kqueue-4.1.60.Final-osx-x86_64.jar outjar/reactive-str
+ eams-1.0.3.jar outjar/netty-reactive-streams-2.0.4.jar outjar/jakarta
+ .activation-1.2.2.jar outjar/selenium-http-4.1.0.jar outjar/failsafe-
+ 2.4.4.jar outjar/selenium-safari-driver-4.1.0.jar outjar/selenium-sup
+ port-4.1.0.jar outjar/webdrivermanager-5.0.3.jar outjar/slf4j-api-1.7
+ .32.jar outjar/gson-2.8.8.jar outjar/jsoup-1.14.2.jar outjar/docker-j
+ ava-3.2.12.jar outjar/docker-java-core-3.2.12.jar outjar/docker-java-
+ api-3.2.12.jar outjar/jackson-annotations-2.10.3.jar outjar/commons-i
+ o-2.6.jar outjar/commons-compress-1.21.jar outjar/commons-lang-2.6.ja
+ r outjar/jackson-databind-2.10.3.jar outjar/jackson-core-2.10.3.jar o
+ utjar/bcpkix-jdk15on-1.64.jar outjar/bcprov-jdk15on-1.64.jar outjar/j
+ cl-over-slf4j-1.7.30.jar outjar/docker-java-transport-httpclient5-3.2
+ .12.jar outjar/docker-java-transport-3.2.12.jar outjar/httpclient5-5.
+ 0.3.jar outjar/httpcore5-5.0.2.jar outjar/commons-codec-1.13.jar outj
+ ar/jna-5.8.0.jar outjar/guava-30.1.1-jre.jar outjar/failureaccess-1.0
+ .1.jar outjar/listenablefuture-9999.0-empty-to-avoid-conflict-with-gu
+ ava.jar outjar/jsr305-3.0.2.jar outjar/checker-qual-3.8.0.jar outjar/
+ error_prone_annotations-2.5.1.jar outjar/j2objc-annotations-1.3.jar o
+ utjar/dec-0.1.2.jar outjar/testng-6.13.1.jar outjar/jcommander-1.72.j
+ ar
+Build-Jdk: 1.8.0_291
+Created-By: Maven Integration for Eclipse
+Main-Class: theMainClass
+
